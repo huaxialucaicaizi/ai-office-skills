@@ -4,8 +4,8 @@
 
 # AI Office Skills · 打工人办公 Skills 套装
 
-**「打工人办公 Skills 套装」的汇总仓库：把视频、PPT、数据分析、设计等办公方向的独立 Skill 仓库收在一起。**<br>
-Overview repo for the office Skills suite: independent Skill repos for video, PPT, data analysis, design, and related office workflows.
+**「打工人办公 Skills 套装」的汇总仓库：把视频剪辑、PPT、数据分析、设计等办公方向的独立 Skill 仓库收在一起。**<br>
+Overview repo for the office Skills suite: independent Skill repos for video editing, PPT, data analysis, design, and related office workflows.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](./LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/huaxialucaicaizi/ai-office-skills?style=social)](https://github.com/huaxialucaicaizi/ai-office-skills)
